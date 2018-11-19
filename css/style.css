@@ -1,0 +1,64 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Coiny', cursive;
+}
+
+/* Responsive typography */
+html {
+    font-size: 1rem;
+  }
+  
+  @include media-breakpoint-up(sm) {
+    html {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @include media-breakpoint-up(md) {
+    html {
+      font-size: 1.4rem;
+    }
+  }
+  
+  @include media-breakpoint-up(lg) {
+    html {
+      font-size: 1.6rem;
+    }
+  }
+.posnav{
+    position: relative;
+    /* position: -webkit-sticky; */
+    top: 10%;
+    z-index: 1;
+}
+
+.pordure{
+    border: 2px solid black;
+}
+.hauteur{
+    height: 500px;
+}
+
+
+.position1{
+    position: relative;
+    right: 100%;
+    top:40%;
+}
+
+.position2{
+    position: relative;
+    left: 100%;
+    overflow: auto;
+    top:40%;
+}
+.position3{
+    position: relative;
+    left: 50%;
+    top:0;
+}
+
+.text-dark1{
+    color: black;
+}
+
