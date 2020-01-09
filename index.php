@@ -154,7 +154,7 @@
         <div class="row d-flex m-0 p-0">
             <div class="m-0 p-0">
                 <div class="navbar m-4 posnav">
-                    <a href=""><span class="textColor ">A $ A P</span> </a>
+                    <a href=""><span class="textColor ">Slide</span> </a>
                 </div>
                 <div id="carousel-2" class="carousel slide rtl" data-ride="carousel">    
                     <div class="carousel-inner" role="listbox">  
@@ -224,8 +224,8 @@
 
                 </div><!-- fin myCarousel -->
                 <div id="anim1" class="position5">  
-                    <span ><h3 class="animated fadeOutUp"> Hello mes amis</h3></span>
-                    <span ><p class="animated fadeOutUp"> Ouuuiiiiiiiiiiiiiiii!!!!!!!!!!!!!</p></span>
+                    <span ><h3 class="animated fadeOutUp"> !!!!!!!!!!!!!!</h3></span>
+                    <span ><p class="animated fadeOutUp">!!!!!!!!!!!!!</p></span>
                 </div>
                 <div id="anim1" class="position6">  
                     <div class="row">
